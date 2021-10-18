@@ -14,7 +14,7 @@
  </h1>
 <h5 align="center">
   <code>
-    <a href="https://www.canva.com/design/DAErn4sRKYY/eDw18h4meEOYrmg3T9wAjg/view?website#2:contato" title="Site" target="_blank"><img src="http://doisnovarejo.com.br/wp-content/uploads/2020/12/bot%C3%A3o-site.png" target="_blank"></a></code>
+    <a href="https://victoren.weebly.com/" title="Site" target="_blank"><img src="http://doisnovarejo.com.br/wp-content/uploads/2020/12/bot%C3%A3o-site.png" target="_blank"></a></code>
   
  </h1>
 <br>
