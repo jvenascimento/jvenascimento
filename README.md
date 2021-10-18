@@ -42,6 +42,8 @@
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
+   <code><img title="HTML" height="25" src="images/python-original.svg"></code>
+   <code><img title="SQL" height="25" src="images/python-original.svg"></code>
 
 </p>
 
